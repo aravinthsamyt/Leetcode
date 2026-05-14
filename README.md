@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0136-single-number) |
 | [1512-number-of-good-pairs](https://github.com/aravinthsamyt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aravinthsamyt/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/aravinthsamyt/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
