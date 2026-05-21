@@ -11,15 +11,15 @@ char* maximumOddBinaryNumber(char* s) {
         i++;
     }
     i=0;
-    char *result = (char*)malloc((l+1)*sizeof(char));
+   /* char *result = (char*)malloc((l+1)*sizeof(char));
     memset(result,'0',l);
-    result[l]='\0';
+    result[l]='\0';*/
     while(i<count1-1){
-        result[i++]='1';
+        s[i++]='1';
     }
     while(i<(l-1)){
-        result[i++]='0';
+        s[i++]='0';
     }
-    result[i]='1';
-    return result; 
+    s[i]='1';
+    return s; 
 }
