@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/aravinthsamyt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2351-first-letter-to-appear-twice](https://github.com/aravinthsamyt/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/aravinthsamyt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/aravinthsamyt/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/aravinthsamyt/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aravinthsamyt/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/aravinthsamyt/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/aravinthsamyt/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2864-maximum-odd-binary-number](https://github.com/aravinthsamyt/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Linked List
 |  |
