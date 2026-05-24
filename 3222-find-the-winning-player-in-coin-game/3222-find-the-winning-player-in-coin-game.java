@@ -4,9 +4,9 @@ class Solution {
         // int moves=x<(y/4)?x:(y/4);
         if((x<(y/4)?x:(y/4))%2 == 0){
             return "Bob";
-        }else{
-            return "Alice";
         }
+        return "Alice";
+
         
     }
 }
