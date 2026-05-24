@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aravinthsamyt/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/aravinthsamyt/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2864-maximum-odd-binary-number](https://github.com/aravinthsamyt/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/aravinthsamyt/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/aravinthsamyt/Leetcode/tree/master/1103-distribute-candies-to-people) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/aravinthsamyt/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Array
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/aravinthsamyt/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2864-maximum-odd-binary-number](https://github.com/aravinthsamyt/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/aravinthsamyt/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
