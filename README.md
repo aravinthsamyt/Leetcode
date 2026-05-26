@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/aravinthsamyt/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/aravinthsamyt/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2864-maximum-odd-binary-number](https://github.com/aravinthsamyt/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3024-type-of-triangle](https://github.com/aravinthsamyt/Leetcode/tree/master/3024-type-of-triangle) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aravinthsamyt/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/aravinthsamyt/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aravinthsamyt/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3024-type-of-triangle](https://github.com/aravinthsamyt/Leetcode/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3024-type-of-triangle](https://github.com/aravinthsamyt/Leetcode/tree/master/3024-type-of-triangle) |
 ## Enumeration
 |  |
 | ------- |
