@@ -1,8 +1,8 @@
 class Solution {
-    public int minimumSum(int num) {
+    public int minimumSum(int num) { 
         int[] arr = new int[4];
 
-        for(int i = 0; i < 4; i++) {
+        for(int i = 0; i < 4; i++) { 
             arr[i] = num % 10;
             num /= 10;
         }
