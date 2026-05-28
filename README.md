@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/aravinthsamyt/Leetcode/tree/master/1103-distribute-candies-to-people) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aravinthsamyt/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aravinthsamyt/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Array
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aravinthsamyt/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/aravinthsamyt/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aravinthsamyt/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/aravinthsamyt/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2864-maximum-odd-binary-number](https://github.com/aravinthsamyt/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Linked List
