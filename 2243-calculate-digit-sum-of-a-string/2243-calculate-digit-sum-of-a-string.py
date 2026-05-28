@@ -1,6 +1,5 @@
 class Solution(object):
     def digitSum(self, s, k):
-
         while len(s)>k:
             j=0
             n=[]
