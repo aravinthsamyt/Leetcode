@@ -1,13 +1,10 @@
 class Solution(object):
     def maxBottlesDrunk(self, numBottles, numExchange):
-        """
-        :type numBottles: int
-        :type numExchange: int
-        :rtype: int
-        """
-        res = numBottles
+        emptyBottles=numBottles
         while numBottles >= numExchange:
-            numBottles -= numExchange - 1
-            numExchange += 1
-            res += 1
-        return res
+            numBottles-=numExchange
+            numExchange+=1
+            numBottles+=1
+            emptyBottles+=1
+        return emptyBottles
+        
