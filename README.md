@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/aravinthsamyt/Leetcode/tree/master/3024-type-of-triangle) |
 | [3100-water-bottles-ii](https://github.com/aravinthsamyt/Leetcode/tree/master/3100-water-bottles-ii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aravinthsamyt/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3280-convert-date-to-binary](https://github.com/aravinthsamyt/Leetcode/tree/master/3280-convert-date-to-binary) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aravinthsamyt/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/aravinthsamyt/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2864-maximum-odd-binary-number](https://github.com/aravinthsamyt/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3280-convert-date-to-binary](https://github.com/aravinthsamyt/Leetcode/tree/master/3280-convert-date-to-binary) |
 ## Linked List
 |  |
 | ------- |
