@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/aravinthsamyt/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/aravinthsamyt/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/aravinthsamyt/Leetcode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
