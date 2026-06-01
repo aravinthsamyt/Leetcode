@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aravinthsamyt/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aravinthsamyt/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aravinthsamyt/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3024-type-of-triangle](https://github.com/aravinthsamyt/Leetcode/tree/master/3024-type-of-triangle) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aravinthsamyt/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aravinthsamyt/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3024-type-of-triangle](https://github.com/aravinthsamyt/Leetcode/tree/master/3024-type-of-triangle) |
 ## Enumeration
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/aravinthsamyt/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aravinthsamyt/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aravinthsamyt/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/aravinthsamyt/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Game Theory
