@@ -1,29 +1,24 @@
 class Solution {
-
-    private int waviness(int x) {
-        String s = Integer.toString(x);
-
-        int cnt = 0;
-
-        for (int i = 1; i < s.length() - 1; i++) {
-            char cur = s.charAt(i);
-
-            if ((cur > s.charAt(i - 1) && cur > s.charAt(i + 1)) ||
-                (cur < s.charAt(i - 1) && cur < s.charAt(i + 1))) {
-                cnt++;
-            }
-        }
-
-        return cnt;
-    }
-
     public int totalWaviness(int num1, int num2) {
-        int ans = 0;
-
-        for (int x = num1; x <= num2; x++) {
-            ans += waviness(x);
+             String s1 = String.valueOf(num1);
+             int n1=0,j=1,i=num1,k=0;
+        while(i <= num2){
+               s1 = String.valueOf(i);
+              if(s1.length()<3){
+                i++;
+                continue;
+              }
+              n1=s1.charAt(j)-'0';
+              if((n1 < s1.charAt(j-1)-'0' && n1 < s1.charAt(j+1)-'0') || (n1 > s1.charAt(j-1)-'0' && n1 > s1.charAt(j+1)-'0')){
+                k++;
+              }
+              j++;
+              if(j>s1.length()-2){
+                i++;
+                j=1;
+              }
+              
         }
-
-        return ans;
+        return k;
     }
 }
