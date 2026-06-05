@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aravinthsamyt/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3280-convert-date-to-binary](https://github.com/aravinthsamyt/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aravinthsamyt/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aravinthsamyt/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aravinthsamyt/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravinthsamyt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aravinthsamyt/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aravinthsamyt/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
 |  |
 | ------- |
