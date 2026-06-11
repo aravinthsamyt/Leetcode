@@ -3,6 +3,8 @@ class Solution {
         List<Integer> row = new ArrayList<>();
         List<Integer> col = new ArrayList<>();
         List<Integer> ans = new ArrayList<>();
+        int m=matrix.length;
+        int n=matrix[0].length;
         for(int arr[]:matrix){
             int min=Integer.MAX_VALUE;
             for(int a:arr){
@@ -12,9 +14,9 @@ class Solution {
             }
             row.add(min);
         }
-        for(int j=0;j<matrix[0].length;j++){
+        for(int j=0;j<n;j++){
             int max=0;
-             for(int i=0;i<matrix.length;i++){
+             for(int i=0;i<m;i++){
                 if(max < matrix[i][j]){
                     max=matrix[i][j];
                 }
