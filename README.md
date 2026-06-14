@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/aravinthsamyt/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/aravinthsamyt/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/aravinthsamyt/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/aravinthsamyt/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aravinthsamyt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
