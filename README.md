@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/aravinthsamyt/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aravinthsamyt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/aravinthsamyt/Leetcode/tree/master/1720-decode-xored-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aravinthsamyt/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/aravinthsamyt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/aravinthsamyt/Leetcode/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aravinthsamyt/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/aravinthsamyt/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
