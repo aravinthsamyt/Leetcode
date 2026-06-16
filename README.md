@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/aravinthsamyt/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/aravinthsamyt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/aravinthsamyt/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/aravinthsamyt/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/aravinthsamyt/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aravinthsamyt/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/aravinthsamyt/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/aravinthsamyt/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aravinthsamyt/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/aravinthsamyt/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
