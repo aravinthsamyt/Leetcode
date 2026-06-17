@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/aravinthsamyt/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/aravinthsamyt/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/aravinthsamyt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aravinthsamyt/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/aravinthsamyt/Leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/aravinthsamyt/Leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/aravinthsamyt/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/aravinthsamyt/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aravinthsamyt/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
