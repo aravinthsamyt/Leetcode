@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0804-unique-morse-code-words](https://github.com/aravinthsamyt/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/aravinthsamyt/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aravinthsamyt/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aravinthsamyt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aravinthsamyt/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aravinthsamyt/Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/aravinthsamyt/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/aravinthsamyt/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1207-unique-number-of-occurrences](https://github.com/aravinthsamyt/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aravinthsamyt/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/aravinthsamyt/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aravinthsamyt/Leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/aravinthsamyt/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/aravinthsamyt/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/aravinthsamyt/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/aravinthsamyt/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/aravinthsamyt/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aravinthsamyt/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
