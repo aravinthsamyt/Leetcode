@@ -20,7 +20,7 @@ class Solution {
             curr = curr.next;
         }
 
-        curr.next = (list1 != null) ? list1 : list2;
+        curr.next = (list1 == null) ? list2 : list1;
 
         return dummy.next;
     }
