@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/aravinthsamyt/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/aravinthsamyt/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aravinthsamyt/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/aravinthsamyt/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/aravinthsamyt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/aravinthsamyt/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aravinthsamyt/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aravinthsamyt/Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/aravinthsamyt/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/aravinthsamyt/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0929-unique-email-addresses](https://github.com/aravinthsamyt/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/aravinthsamyt/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aravinthsamyt/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/aravinthsamyt/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/aravinthsamyt/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/aravinthsamyt/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/aravinthsamyt/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0929-unique-email-addresses](https://github.com/aravinthsamyt/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1108-defanging-an-ip-address](https://github.com/aravinthsamyt/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/aravinthsamyt/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aravinthsamyt/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
