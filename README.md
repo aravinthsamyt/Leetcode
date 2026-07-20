@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aravinthsamyt/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/aravinthsamyt/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
 | [1103-distribute-candies-to-people](https://github.com/aravinthsamyt/Leetcode/tree/master/1103-distribute-candies-to-people) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aravinthsamyt/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aravinthsamyt/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aravinthsamyt/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/aravinthsamyt/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aravinthsamyt/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravinthsamyt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0136-single-number) |
