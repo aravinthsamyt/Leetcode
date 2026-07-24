@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravinthsamyt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aravinthsamyt/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aravinthsamyt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aravinthsamyt/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/aravinthsamyt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aravinthsamyt/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/aravinthsamyt/Leetcode/tree/master/0383-ransom-note) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aravinthsamyt/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aravinthsamyt/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aravinthsamyt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aravinthsamyt/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aravinthsamyt/Leetcode/tree/master/0389-find-the-difference) |
