@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/aravinthsamyt/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aravinthsamyt/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0804-unique-morse-code-words](https://github.com/aravinthsamyt/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/aravinthsamyt/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aravinthsamyt/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aravinthsamyt/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aravinthsamyt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aravinthsamyt/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
