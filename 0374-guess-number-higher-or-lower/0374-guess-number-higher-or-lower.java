@@ -28,6 +28,6 @@ public class Solution extends GuessGame {
         }
     }
 
-    return 1;
+    return 100;
     }
 }
