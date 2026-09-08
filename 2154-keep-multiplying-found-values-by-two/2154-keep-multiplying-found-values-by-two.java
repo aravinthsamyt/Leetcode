@@ -1,12 +1,16 @@
 class Solution {
     public int findFinalValue(int[] nums, int original) {
-        int n = nums.length;
-        boolean[] occs = new boolean[1001];
-        for (int i = 0; i < n; i++) {
-            occs[nums[i]] = true;
+        TreeSet<Integer> set = new TreeSet<>();
+        for(int num:nums){
+            set.add(num);
         }
-        while (original <= 1000 && occs[original]) {
-            original *= 2;
+        if(!set.contains(original)){
+            return original;
+        }
+        for(int n:set){
+            if(original == n){
+                original=n*2;
+            }
         }
         return original;
     }
