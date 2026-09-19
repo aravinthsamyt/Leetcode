@@ -5,7 +5,7 @@ char* reverseWords(char* s) {
             n++;
         }
         if(s[i+1] == ' ' || s[i+1]=='\0'){
-           int x = (i+1)-n,y=i;
+           int x = i+1-n,y=i;
            while(x<y){
                 int temp = s[x];
                 s[x] = s[y];
