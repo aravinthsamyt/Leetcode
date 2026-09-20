@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/aravinthsamyt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aravinthsamyt/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aravinthsamyt/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aravinthsamyt/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aravinthsamyt/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/aravinthsamyt/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aravinthsamyt/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aravinthsamyt/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aravinthsamyt/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/aravinthsamyt/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aravinthsamyt/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Queue
 |  |
 | ------- |
