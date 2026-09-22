@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aravinthsamyt/Leetcode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1103-distribute-candies-to-people](https://github.com/aravinthsamyt/Leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1260-shift-2d-grid](https://github.com/aravinthsamyt/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/aravinthsamyt/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/aravinthsamyt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aravinthsamyt/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/aravinthsamyt/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/aravinthsamyt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/aravinthsamyt/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/aravinthsamyt/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aravinthsamyt/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/aravinthsamyt/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aravinthsamyt/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aravinthsamyt/Leetcode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [1260-shift-2d-grid](https://github.com/aravinthsamyt/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aravinthsamyt/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
