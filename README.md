@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/aravinthsamyt/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aravinthsamyt/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/aravinthsamyt/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aravinthsamyt/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/aravinthsamyt/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aravinthsamyt/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/aravinthsamyt/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aravinthsamyt/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aravinthsamyt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aravinthsamyt/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aravinthsamyt/Leetcode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/aravinthsamyt/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aravinthsamyt/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aravinthsamyt/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aravinthsamyt/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
