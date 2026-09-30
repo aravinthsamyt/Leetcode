@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/aravinthsamyt/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aravinthsamyt/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aravinthsamyt/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1844-replace-all-digits-with-characters](https://github.com/aravinthsamyt/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/aravinthsamyt/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/aravinthsamyt/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aravinthsamyt/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
