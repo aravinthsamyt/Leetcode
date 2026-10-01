@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/aravinthsamyt/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/aravinthsamyt/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aravinthsamyt/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/aravinthsamyt/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/aravinthsamyt/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aravinthsamyt/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/aravinthsamyt/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
